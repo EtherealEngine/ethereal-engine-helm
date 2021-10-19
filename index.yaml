@@ -47,6 +47,17 @@ entries:
     version: 3.3.2
   xrengine:
   - apiVersion: v2
+    appVersion: 0.4.8
+    created: "2021-10-18T16:51:33.842009615-04:00"
+    description: A Helm chart for Kubernetes
+    digest: bb724e4311a8200b5004de20aef7ba909e4013974fc9347484247ebd223393ae
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: xrengine-builder
+    type: application
+    urls:
+      - https://helm.xrengine.io/xrengine-builder-3.3.5.tgz
+    version: 3.3.5
+  - apiVersion: v2
     appVersion: 0.4.0
     created: "2021-10-12T22:40:54.783726613-04:00"
     description: A Helm chart for Kubernetes
