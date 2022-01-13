@@ -81,6 +81,17 @@ entries:
   xrengine:
   - apiVersion: v2
     appVersion: 0.4.0
+    created: "2022-01-13T12:35:39.069008236+05:00"
+    description: A Helm chart for Kubernetes
+    digest: 0c60a29a542ccb5d2595fe9d04d4debcbfd1b3df355cdc34b5ce164ce424cf44
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: xrengine
+    type: application
+    urls:
+    - https://helm.xrengine.io/xrengine-3.4.5.tgz
+    version: 3.4.5
+  - apiVersion: v2
+    appVersion: 0.4.0
     created: "2021-12-28T11:09:06.120619996-08:00"
     description: A Helm chart for Kubernetes
     digest: 6fa581368168cb3d71a4fa961f8a043144d0d637931b3846f1f7ca2292cd9f43
@@ -885,4 +896,4 @@ entries:
     urls:
     - https://helm.xrengine.io/xrchat-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-28T11:09:06.118474224-08:00"
+generated: "2022-01-13T12:35:39.067179524+05:00"
