@@ -3,6 +3,17 @@ entries:
   xrengine-builder:
   - apiVersion: v2
     appVersion: 0.4.8
+    created: "2022-02-22T11:48:21.947036288-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 42a3262c8e0696c2ea63e5363725b1a3fbe25f29c7e59a1cc000aa128e861b1c
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: xrengine-builder
+    type: application
+    urls:
+      - https://helm.xrengine.io/xrengine-builder-4.0.1.tgz
+    version: 4.0.1
+  - apiVersion: v2
+    appVersion: 0.4.8
     created: "2022-02-16T15:39:46.89958767-08:00"
     description: A Helm chart for Kubernetes
     digest: ef3c6841d2b6510ac4577cb873544f9191246730ac8b65a7b37888fa30f36932
@@ -123,6 +134,17 @@ entries:
       - https://helm.xrengine.io/xrengine-builder-3.3.2.tgz
     version: 3.3.2
   xrengine:
+  - apiVersion: v2
+    appVersion: 0.4.0
+    created: "2022-02-22T11:48:21.946715659-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 5e4358b0d7fb9602ca58437f1b616c4e5004ecf745b8755bc49a673a0e2ce021
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: xrengine
+    type: application
+    urls:
+      - https://helm.xrengine.io/xrengine-4.0.1.tgz
+    version: 4.0.1
   - apiVersion: v2
     appVersion: 0.4.0
     created: "2022-02-16T15:39:46.898465531-08:00"
@@ -973,4 +995,4 @@ entries:
     urls:
     - https://helm.xrengine.io/xrchat-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-16T15:39:46.895507814-08:00"
+generated: "2022-02-22T11:48:21.9456588-08:00"
