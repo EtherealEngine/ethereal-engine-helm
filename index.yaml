@@ -10,7 +10,7 @@ entries:
     name: xrengine-builder
     type: application
     urls:
-      - https://helm.xrengine/io/xrengine-builder-4.1.0.tgz
+      - https://helm.xrengine.io/xrengine-builder-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v2
     appVersion: 0.4.8
@@ -154,7 +154,7 @@ entries:
     name: xrengine
     type: application
     urls:
-      - https://helm.xrengine/io/xrengine-4.1.0.tgz
+      - https://helm.xrengine.io/xrengine-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v2
     appVersion: 0.4.0
