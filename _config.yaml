@@ -1,8 +1,8 @@
-title: Our XR3ngine Helm chart repo
+title: Ethereal ENgine Helm Chart Repo
 description: A chart repo for storing charts.
 theme: minima
-url: "https://helm.xrengine.io"
-repo_name: xrengine
+url: "https://helm.etherealengine.org"
+repo_name: etherealengine
 
 exclude:
   - Gemfile
