@@ -3,18 +3,6 @@ entries:
   etherealengine-builder:
   - apiVersion: v2
     appVersion: 1.1.4
-    created: "2023-03-03T14:45:13.211337783-08:00"
-    description: A Helm chart for Kubernetes
-    digest: 0f0528627d91884df7bbb383eac68c3495f3b1aa12a07b6ce88399b88d23492a
-    icon: https://avatars3.githubusercontent.com/u/61642798
-    name: etherealengine
-    type: application
-    urls:
-      - https://helm.etherealengine.org/etherealengine-5.0.0.tgz
-    version: 5.0.0
-  etherealengine:
-  - apiVersion: v2
-    appVersion: 1.1.3
     created: "2023-03-03T14:45:13.211741056-08:00"
     description: A Helm chart for Kubernetes
     digest: 4476f621117caaae48c5eb7da04416af6488bfc1adacaa6ccf084f2ca8e02307
@@ -23,5 +11,17 @@ entries:
     type: application
     urls:
       - https://helm.etherealengine.org/etherealengine-builder-5.0.0.tgz
+    version: 5.0.0
+  etherealengine:
+  - apiVersion: v2
+    appVersion: 1.1.4
+    created: "2023-03-03T14:45:13.211337783-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 0f0528627d91884df7bbb383eac68c3495f3b1aa12a07b6ce88399b88d23492a
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: etherealengine
+    type: application
+    urls:
+      - https://helm.etherealengine.org/etherealengine-5.0.0.tgz
     version: 5.0.0
 generated: "2023-01-10T15:20:44.460254212-08:00"
