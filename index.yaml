@@ -2,6 +2,17 @@ apiVersion: v1
 entries:
   etherealengine-builder:
   - apiVersion: v2
+    appVersion: 1.4.0
+    created: "2023-07-28T10:32:26.554075718-07:00"
+    description: A Helm chart for Kubernetes
+    digest: b1086d1156c6b896b8444720b6381a6637ae312a4dade5ebcd8a75f729d0f667
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: etherealengine-builder
+    type: application
+    urls:
+      - https://helm.etherealengine.org/etherealengine-builder-5.2.0.tgz
+    version: 5.2.0
+  - apiVersion: v2
     appVersion: 1.2.1
     created: "2023-05-23T17:40:01.622097687-07:00"
     description: A Helm chart for Kubernetes
