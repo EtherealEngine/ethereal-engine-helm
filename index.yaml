@@ -36,6 +36,17 @@ entries:
     version: 5.0.0
   etherealengine:
   - apiVersion: v2
+    appVersion: 1.6.0
+    created: "2024-04-19T11:08:50.934428405-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 66893ac85bf54f9a7fdbce7a87458256c450c4930f2c5d5cef2506ed6546418c
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: etherealengine
+    type: application
+    urls:
+      - https://helm.etherealengine.org/etherealengine-5.3.0.tgz
+    version: 5.3.0
+  - apiVersion: v2
     appVersion: 1.5.0
     created: "2024-01-05T11:51:30.839667949-08:00"
     description: A Helm chart for Kubernetes
@@ -178,4 +189,4 @@ entries:
     urls:
       - https://helm.etherealengine.org/etherealengine-5.0.0.tgz
     version: 5.0.0
-generated: "2023-10-03T22:42:08.096953756-07:00"
+generated: "2024-04-19T11:08:50.933424675-04:00"
