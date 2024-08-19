@@ -23,6 +23,7 @@ entries:
     type: application
     urls:
       - https://helm.etherealengine.org/ir-engine-1.0.0.tgz
+    version: 1.0.0
   etherealengine-builder:
   - apiVersion: v2
     appVersion: 1.2.1
