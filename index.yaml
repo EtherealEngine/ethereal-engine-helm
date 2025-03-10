@@ -3,6 +3,17 @@ entries:
   ir-engine-builder:
   - apiVersion: v2
     appVersion: 1.2.1
+    created: "2025-03-10T11:50:32.335239162-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 262789874a8f02cb07c9d188b3333b4b327713a530956fb948a441d96593bf96
+    icon: https://avatars3.githubusercontent.com/u/61642798
+    name: ir-engine-builder
+    type: application
+    urls:
+      - https://helm.etherealengine.org/ir-engine-builder-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v2
+    appVersion: 1.2.1
     created: "2025-03-06T14:09:47.881962269-08:00"
     description: A Helm chart for Kubernetes
     digest: c2d55c5ca20de65ba45d088a70869d20c09d089fa2e544c5c53f078be69fb6fa
@@ -279,4 +290,4 @@ entries:
     urls:
       - https://helm.etherealengine.org/etherealengine-5.0.0.tgz
     version: 5.0.0
-generated: "2025-03-06T14:09:47.881515515-08:00"
+generated: "2025-03-10T11:50:32.334859855-07:00"
