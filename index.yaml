@@ -137,6 +137,17 @@ entries:
     version: 5.0.0
   ir-engine-kaniko:
     - apiVersion: v2
+      appVersion: 1.0.2
+      created: "2025-05-02T11:01:52.081489093-04:00"
+      description: A Helm chart for Kubernetes
+      digest: 19f3bc02b9b4ca1a24e98a3d334709ab3e69fe3b9891794469f69733664610c1
+      icon: https://avatars3.githubusercontent.com/u/61642798
+      name: ir-engine-kaniko
+      type: application
+      urls:
+        - https://helm.etherealengine.org/ir-engine-kaniko-1.0.3.tgz
+      version: 1.0.3
+    - apiVersion: v2
       appVersion: 1.0.1
       created: "2025-04-24T15:56:48.980779828-07:00"
       description: A Helm chart for Kubernetes
@@ -346,4 +357,4 @@ entries:
     urls:
       - https://helm.etherealengine.org/etherealengine-5.0.0.tgz
     version: 5.0.0
-generated: "2025-04-24T15:56:48.980308678-07:00"
+generated: "2025-05-02T11:01:52.081055341-04:00"
